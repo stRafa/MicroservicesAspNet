@@ -1,7 +1,7 @@
 ﻿using BlankStore.Catalog.API.Entities;
 using MongoDB.Driver;
 
-namespace BlankStore.Catalog.API.Data
+namespace BlankStore.Catalog.API.Contracts
 {
     public interface ICatalogContext
     {
